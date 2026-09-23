@@ -28,7 +28,7 @@ A modern, user-friendly Android application designed to streamline the grocery s
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/VanshMShah/GOA-Grocery-Ordering-App-.git](https://github.com/VanshMShah/GOA-Grocery-Ordering-App-.git)
+   git clone [https://github.com/VanshMShah/GOA-Grocery-Ordering-App.git](https://github.com/VanshMShah/GOA-Grocery-Ordering-App.git)
 2.  **Open in Android Studio:**
     * Select "Open an Existing Project."
     * Navigate to the cloned folder.
